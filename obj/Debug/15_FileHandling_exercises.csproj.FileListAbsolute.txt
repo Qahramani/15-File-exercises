@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Edabit_exirsices\15_FileHandling_exercises\bin\Debug\15_FileHandling_exercises.exe.config
+C:\Users\User\source\repos\Edabit_exirsices\15_FileHandling_exercises\bin\Debug\15_FileHandling_exercises.exe
+C:\Users\User\source\repos\Edabit_exirsices\15_FileHandling_exercises\bin\Debug\15_FileHandling_exercises.pdb
+C:\Users\User\source\repos\Edabit_exirsices\15_FileHandling_exercises\obj\Debug\15_FileHandling_exercises.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Edabit_exirsices\15_FileHandling_exercises\obj\Debug\15_FileHandling_exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Edabit_exirsices\15_FileHandling_exercises\obj\Debug\15_FileHandling_exercises.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Edabit_exirsices\15_FileHandling_exercises\obj\Debug\15_FileHandling_exercises.exe
+C:\Users\User\source\repos\Edabit_exirsices\15_FileHandling_exercises\obj\Debug\15_FileHandling_exercises.pdb
